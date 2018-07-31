@@ -14,8 +14,6 @@ public class Review {
     @Column(name = "comment")
     private String comment;
 
-    //private int course_id;
-
     public Review() {
 
     }
